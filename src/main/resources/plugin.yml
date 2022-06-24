@@ -1,0 +1,6 @@
+name: ExecutableAPI
+version: '${project.version}'
+main: me.wubbo.executableapi.ExecutableAPI
+api-version: 1.18
+authors: [wubbo]
+description: Make Interactble Items With Ease
