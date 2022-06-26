@@ -1,2 +1,2 @@
 # ExecutableAPI
-Easy to use item executor library.
+Easy to use item executor library for the paper/spigot.
